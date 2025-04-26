@@ -10,11 +10,8 @@ I have created this software a header and declaration of this project, showing t
 
 ## Development Environment
 
-To develop this code, I used the Visual Studio Code IDE, with a python and json file.
+To develop this code, I used the Visual Studio Code IDE, with a Python and JSON file.
 
 The latest version of Python (on 4/25/2025) was used to develop this code.
 
-## Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
